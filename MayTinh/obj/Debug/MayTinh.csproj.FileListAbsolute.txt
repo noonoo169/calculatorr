@@ -1,0 +1,17 @@
+C:\Users\NOO\source\repos\MayTinh\MayTinh\bin\Debug\MayTinh.exe.config
+C:\Users\NOO\source\repos\MayTinh\MayTinh\bin\Debug\MayTinh.exe
+C:\Users\NOO\source\repos\MayTinh\MayTinh\bin\Debug\MayTinh.pdb
+C:\Users\NOO\source\repos\MayTinh\MayTinh\bin\Debug\vi-VN\MayTinh.resources.dll
+C:\Users\NOO\source\repos\MayTinh\MayTinh\bin\Debug\vi\MayTinh.resources.dll
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.AssemblyReference.cache
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.Form1.resources
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.Form1.vi-VN.resources
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.Form1.vi.resources
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.cache
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.CoreCompileInputs.cache
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\vi-VN\MayTinh.resources.dll
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\vi\MayTinh.resources.dll
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.exe
+C:\Users\NOO\source\repos\MayTinh\MayTinh\obj\Debug\MayTinh.pdb
